@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ma-soi-homemade/static/css/main.3b2f2f48.css",
+    "main.js": "/ma-soi-homemade/static/js/main.a723d869.js",
+    "static/js/787.32df3286.chunk.js": "/ma-soi-homemade/static/js/787.32df3286.chunk.js",
+    "static/media/phuthuy.jpg": "/ma-soi-homemade/static/media/phuthuy.783ecad45357894a05bd.jpg",
+    "static/media/thosan.jpg": "/ma-soi-homemade/static/media/thosan.a57cc5653ffaf4460359.jpg",
+    "static/media/bansoi.jpg": "/ma-soi-homemade/static/media/bansoi.331375acd830f46bd8cf.jpg",
+    "static/media/tientri.jpg": "/ma-soi-homemade/static/media/tientri.1ce7329fd6e6f3e90aaf.jpg",
+    "static/media/baove.jpg": "/ma-soi-homemade/static/media/baove.d98afc5f3c9362c2c6bc.jpg",
+    "static/media/thuongdan.jpg": "/ma-soi-homemade/static/media/thuongdan.7b4a6eb1a12277214f4b.jpg",
+    "static/media/soi.jpg": "/ma-soi-homemade/static/media/soi.3cb4f7be47206086d11b.jpg",
+    "static/media/home.jpeg": "/ma-soi-homemade/static/media/home.c28491214b7790119764.jpeg",
+    "index.html": "/ma-soi-homemade/index.html",
+    "main.3b2f2f48.css.map": "/ma-soi-homemade/static/css/main.3b2f2f48.css.map",
+    "main.a723d869.js.map": "/ma-soi-homemade/static/js/main.a723d869.js.map",
+    "787.32df3286.chunk.js.map": "/ma-soi-homemade/static/js/787.32df3286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2f2f48.css",
+    "static/js/main.a723d869.js"
+  ]
+}
