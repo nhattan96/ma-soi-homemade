@@ -1,0 +1,7 @@
+export {default as soi} from './soi.jpg'
+export {default as bansoi } from './bansoi.jpg'
+export {default as baove } from './baove.jpg'
+export {default as phuthuy } from './phuthuy.jpg'
+export {default as thosan } from './thosan.jpg'
+export {default as thuongdan } from './thuongdan.jpg'
+export {default as tientri } from './tientri.jpg'
